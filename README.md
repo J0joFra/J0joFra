@@ -1,4 +1,3 @@
-### Hi there 👋
 <h2 align="left">Hi 👋!</h2>
 My name is Joaquim Francalanci and I'm a Junior Data Analyst, from Milano
 
