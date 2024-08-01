@@ -3,7 +3,7 @@
 <div align="left">
 My name is Joaquim Francalanci and I'm a Junior Data Analyst, from Milano <img src="https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg" height="20" alt="Italy flag" />
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=J0joFra)](https://github.com/J0joFra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=J0joFra)](https://github-readme-stats.vercel.app/api?username=J0joFra&show_icons=true&theme=radical)
 </div>
 
 ##
