@@ -6,9 +6,7 @@
 
 # 💻 Featured YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Master Data Analytics con TABLEAU e PYTHON: Il Progetto Definitivo (2024)](https://ytcards.demolab.com/?id=RhIJ3ghifzc&title=Master+Data+Analytics+con+TABLEAU+e+PYTHON:+Il+Progetto+Definitivo+(2024)&lang=en&timestamp=1722384000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "Master Data Analytics con TABLEAU e PYTHON: Il Progetto Definitivo (2024)")](https://youtu.be/RhIJ3ghifzc?si=HdqOHbjPSTer2omd)
-
-[![Perché Pandas è STRAORDINARIO per l'analisi dei dati in Python!](https://ytcards.demolab.com/?id=Ku6j9PU_kAY&title=Perché+Pandas+è+STRAORDINARIO+per+l'analisi+dei+dati+in+Python!&lang=en&timestamp=1721952000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=380 "Perché Pandas è STRAORDINARIO per l'analisi dei dati in Python!")](https://youtu.be/Ku6j9PU_kAY?si=Zn6YOkB-N39OeKCa)
+[![Master Data Analytics con TABLEAU e PYTHON: Il Progetto Definitivo (2024)](https://ytcards.demolab.com/?id=RhIJ3ghifzc&title=Master+Data+Analytics+con+TABLEAU+e+PYTHON:+Il+Progetto+Definitivo+(2024)&lang=en&timestamp=1722384000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "Master Data Analytics con TABLEAU e PYTHON: Il Progetto Definitivo (2024)")](https://youtu.be/RhIJ3ghifzc?si=HdqOHbjPSTer2omd) [![Perché Pandas è STRAORDINARIO per l'analisi dei dati in Python!](https://ytcards.demolab.com/?id=Ku6j9PU_kAY&title=Perché+Pandas+è+STRAORDINARIO+per+l'analisi+dei+dati+in+Python!&lang=en&timestamp=1721952000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=380 "Perché Pandas è STRAORDINARIO per l'analisi dei dati in Python!")](https://youtu.be/Ku6j9PU_kAY?si=Zn6YOkB-N39OeKCa)
 <!-- END YOUTUBE-CARDS -->
 
 # 📊 GitHub Stats:
@@ -18,5 +16,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=J0joFra&theme=aura&no-frame=false&no-bg=false&margin-w=4)
-
-
