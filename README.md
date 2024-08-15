@@ -12,11 +12,6 @@
 [![Perché Pandas è STRAORDINARIO per l'analisi dei dati in Python!](https://ytcards.demolab.com/?id=Ku6j9PU_kAY&title=Perché+Pandas+è+STRAORDINARIO+per+l'analisi+dei+dati+in+Python!&lang=it&timestamp=1721952000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=820)](https://youtu.be/Ku6j9PU_kAY)
 <!-- END YOUTUBE-CARDS -->
 
-# 📺 Featured Playlists
-- [Complete Python Bootcamp](https://www.youtube.com/playlist?list=PL5kiA-7bCRmN4JZRs2v3cuC-w8xAK92m-)
-- [Advanced Python Concepts](https://www.youtube.com/playlist?list=PL5kiA-7bCRmODg5EsvVIRvWv0IvooWRhE)
-- [Data Science with Python](https://www.youtube.com/playlist?list=PL5kiA-7bCRmMg0FkbTpDykKQTpcVoQ84t)
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=J0joFra&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=J0joFra&theme=onedark&hide_border=false)<br/>
