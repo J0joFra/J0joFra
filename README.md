@@ -13,4 +13,4 @@
 <!-- END YOUTUBE-CARDS -->
 
 # 📊 GitHub Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=J0joFra&short_numbers=true&mode=monthly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=J0joFra&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
