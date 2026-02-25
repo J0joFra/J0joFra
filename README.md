@@ -1,6 +1,7 @@
 # 💫 About Me:
-🔭 Business Analyst<br>🌱 Founder of formula-rossa.it<br>💬 Ask me about code
-
+🔭 Business Analyst  
+🌱 Founder of [formula-rossa.it](https://formula-rossa.it)  
+💬 Ask me about code
 
 ## 🌐 Socials:
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/@big_eis) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@jofrancalanci) 
