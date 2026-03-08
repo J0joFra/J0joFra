@@ -1,99 +1,97 @@
-<!-- Header -->
+<!-- HEADER -->
 <div align="center">
 
-```
- ██╗ ██████╗      ██╗ ██████╗ ███████╗██████╗  █████╗ 
- ██║██╔═══██╗     ██║██╔═══██╗██╔════╝██╔══██╗██╔══██╗
- ██║██║   ██║     ██║██║   ██║█████╗  ██████╔╝███████║
-██╗██║██║   ██║██╗██║██║   ██║██╔══╝  ██╔══██╗██╔══██║
-╚████╔╝╚██████╔╝╚████╔╝╚██████╔╝██║   ██║  ██║██║  ██║
- ╚═══╝  ╚═════╝  ╚═══╝  ╚═════╝ ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4&height=120&section=header&text=J0joFra&fontSize=60&fontColor=FF0000&fontAlignY=65&animation=fadeIn&desc=Business%20Analyst%20%7C%20Founder%20%40%20formula-rossa.it&descSize=16&descAlignY=85&descColor=FFD700"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=E8FF47&background=0A0A0A00&center=true&vCenter=true&width=500&lines=Business+Analyst+%F0%9F%94%AD;Founder+%40+formula-rossa.it+%F0%9F%8F%8E%EF%B8%8F;Ask+me+about+code+%F0%9F%92%AC;Always+building+something+new+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=800&color=FF3300&background=00000000&center=true&vCenter=true&width=500&lines=%F0%9F%8F%8E%EF%B8%8F+Passion+for+Speed;%F0%9F%94%AD+Business+Analyst;%E2%9A%99%EF%B8%8F+Always+building+something+new;%F0%9F%9A%80+formula-rossa.it)](https://formula-rossa.it)
 
-[![](https://visitcount.itsvg.in/api?id=J0joFra&icon=0&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=J0joFra&icon=5&color=6)](https://visitcount.itsvg.in)
 
 </div>
 
 ---
 
-## ◈ Chi sono
+## 🏎️ Chi sono
 
 ```yaml
 name:       Joaquim Francalanci
 alias:      J0joFra
 role:       Business Analyst
-founded:    formula-rossa.it
-location:   Milano, IT
+founded:    formula-rossa.it   # 🔴 Passion for Speed
+location:   Milano, IT 🇮🇹
 ask_me:     [ code, data, motorsport ]
 ```
 
----
-
-## ◈ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=e8ff47)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=e8ff47)
-![C%23](https://img.shields.io/badge/C%23-0a0a0a?style=flat-square&logo=csharp&logoColor=e8ff47)
-![Java](https://img.shields.io/badge/Java-0a0a0a?style=flat-square&logo=openjdk&logoColor=e8ff47)
-![C](https://img.shields.io/badge/C-0a0a0a?style=flat-square&logo=c&logoColor=e8ff47)
-![R](https://img.shields.io/badge/R-0a0a0a?style=flat-square&logo=r&logoColor=e8ff47)
-![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=flat-square&logo=html5&logoColor=e8ff47)
-![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=flat-square&logo=css3&logoColor=e8ff47)
-
-**Frameworks & Libraries**
-
-![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=flat-square&logo=next.js&logoColor=e8ff47)
-![FastAPI](https://img.shields.io/badge/FastAPI-0a0a0a?style=flat-square&logo=fastapi&logoColor=e8ff47)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0a0a0a?style=flat-square&logo=tailwind-css&logoColor=e8ff47)
-![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=node.js&logoColor=e8ff47)
-![Express](https://img.shields.io/badge/Express-0a0a0a?style=flat-square&logo=express&logoColor=e8ff47)
-![Flask](https://img.shields.io/badge/Flask-0a0a0a?style=flat-square&logo=flask&logoColor=e8ff47)
-![.NET](https://img.shields.io/badge/.NET-0a0a0a?style=flat-square&logo=.net&logoColor=e8ff47)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0a0a0a?style=flat-square&logo=bootstrap&logoColor=e8ff47)
-![Chart.js](https://img.shields.io/badge/Chart.js-0a0a0a?style=flat-square&logo=chart.js&logoColor=e8ff47)
-![NumPy](https://img.shields.io/badge/NumPy-0a0a0a?style=flat-square&logo=numpy&logoColor=e8ff47)
-![Pandas](https://img.shields.io/badge/Pandas-0a0a0a?style=flat-square&logo=pandas&logoColor=e8ff47)
-![Plotly](https://img.shields.io/badge/Plotly-0a0a0a?style=flat-square&logo=plotly&logoColor=e8ff47)
-![Anaconda](https://img.shields.io/badge/Anaconda-0a0a0a?style=flat-square&logo=anaconda&logoColor=e8ff47)
-
-**Database & Cloud**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0a?style=flat-square&logo=mongodb&logoColor=e8ff47)
-![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=flat-square&logo=mysql&logoColor=e8ff47)
-![Redis](https://img.shields.io/badge/Redis-0a0a0a?style=flat-square&logo=redis&logoColor=e8ff47)
-![Neo4j](https://img.shields.io/badge/Neo4j-0a0a0a?style=flat-square&logo=neo4j&logoColor=e8ff47)
-![SQLite](https://img.shields.io/badge/SQLite-0a0a0a?style=flat-square&logo=sqlite&logoColor=e8ff47)
-![AWS](https://img.shields.io/badge/AWS-0a0a0a?style=flat-square&logo=amazon-aws&logoColor=e8ff47)
-![Google Cloud](https://img.shields.io/badge/GCP-0a0a0a?style=flat-square&logo=google-cloud&logoColor=e8ff47)
-![Vercel](https://img.shields.io/badge/Vercel-0a0a0a?style=flat-square&logo=vercel&logoColor=e8ff47)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-0a0a0a?style=flat-square&logo=git&logoColor=e8ff47)
-![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=flat-square&logo=github&logoColor=e8ff47)
-![Canva](https://img.shields.io/badge/Canva-0a0a0a?style=flat-square&logo=canva&logoColor=e8ff47)
-![Premiere Pro](https://img.shields.io/badge/Premiere-0a0a0a?style=flat-square&logo=adobe-premiere-pro&logoColor=e8ff47)
+> *"Velocità, dati e codice — tre modi per arrivare primo."*
 
 ---
 
-## ◈ GitHub Stats
+## 🔴 Il mio progetto — [formula-rossa.it](https://formula-rossa.it)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=J0joFra&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d0d0d&title_color=e8ff47&text_color=888888&icon_color=e8ff47" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J0joFra&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d0d0d&title_color=e8ff47&text_color=888888" height="160"/>
+[![formula-rossa.it](https://img.shields.io/badge/🏁%20FORMULA--ROSSA.IT-FF0000?style=for-the-badge&logoColor=white)](https://formula-rossa.it)
+[![formula-rossa.it](https://img.shields.io/badge/PASSION%20FOR%20SPEED-FFD700?style=for-the-badge&labelColor=1a1a1a&color=FFD700)](https://formula-rossa.it)
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=J0joFra&theme=dark&hide_border=true&background=0d0d0d&stroke=1e1e1e&ring=e8ff47&fire=ff4747&currStreakLabel=e8ff47" width="100%"/>
+</div>
+
+Il sito dedicato alla **passione per il motorsport** 🏎️ — news, analisi, dati e contenuti per tutti gli appassionati di velocità. Visita **[formula-rossa.it](https://formula-rossa.it)** e seguici sui social!
+
+---
+
+## ⚙️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=FFD700)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=FFD700)
+![C%23](https://img.shields.io/badge/C%23-1a1a1a?style=flat-square&logo=csharp&logoColor=FF3300)
+![Java](https://img.shields.io/badge/Java-1a1a1a?style=flat-square&logo=openjdk&logoColor=FF3300)
+![C](https://img.shields.io/badge/C-1a1a1a?style=flat-square&logo=c&logoColor=FFD700)
+![R](https://img.shields.io/badge/R-1a1a1a?style=flat-square&logo=r&logoColor=FFD700)
+![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=flat-square&logo=html5&logoColor=FF3300)
+![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=flat-square&logo=css3&logoColor=FFD700)
+
+**Frameworks & Libraries**
+
+![Next.js](https://img.shields.io/badge/Next.js-1a1a1a?style=flat-square&logo=next.js&logoColor=FF3300)
+![FastAPI](https://img.shields.io/badge/FastAPI-1a1a1a?style=flat-square&logo=fastapi&logoColor=FFD700)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-1a1a1a?style=flat-square&logo=tailwind-css&logoColor=FFD700)
+![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=node.js&logoColor=FF3300)
+![Express](https://img.shields.io/badge/Express-1a1a1a?style=flat-square&logo=express&logoColor=FFD700)
+![Flask](https://img.shields.io/badge/Flask-1a1a1a?style=flat-square&logo=flask&logoColor=FFD700)
+![.NET](https://img.shields.io/badge/.NET-1a1a1a?style=flat-square&logo=.net&logoColor=FF3300)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-1a1a1a?style=flat-square&logo=bootstrap&logoColor=FFD700)
+![NumPy](https://img.shields.io/badge/NumPy-1a1a1a?style=flat-square&logo=numpy&logoColor=FF3300)
+![Pandas](https://img.shields.io/badge/Pandas-1a1a1a?style=flat-square&logo=pandas&logoColor=FFD700)
+![Plotly](https://img.shields.io/badge/Plotly-1a1a1a?style=flat-square&logo=plotly&logoColor=FF3300)
+
+**Database & Cloud**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1a1a?style=flat-square&logo=mongodb&logoColor=FFD700)
+![MySQL](https://img.shields.io/badge/MySQL-1a1a1a?style=flat-square&logo=mysql&logoColor=FF3300)
+![Redis](https://img.shields.io/badge/Redis-1a1a1a?style=flat-square&logo=redis&logoColor=FF3300)
+![Neo4j](https://img.shields.io/badge/Neo4j-1a1a1a?style=flat-square&logo=neo4j&logoColor=FFD700)
+![AWS](https://img.shields.io/badge/AWS-1a1a1a?style=flat-square&logo=amazon-aws&logoColor=FFD700)
+![Google Cloud](https://img.shields.io/badge/GCP-1a1a1a?style=flat-square&logo=google-cloud&logoColor=FF3300)
+![Vercel](https://img.shields.io/badge/Vercel-1a1a1a?style=flat-square&logo=vercel&logoColor=FFD700)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=J0joFra&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d0d0d&title_color=FF3300&text_color=FFD700&icon_color=FF3300" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J0joFra&theme=dark&hide_border=true&layout=compact&bg_color=0d0d0d&title_color=FF3300&text_color=FFD700" height="160"/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=J0joFra&theme=dark&hide_border=true&background=0d0d0d&stroke=1e1e1e&ring=FF3300&fire=FFD700&currStreakLabel=FF3300&sideLabels=FFD700&dates=888888" width="100%"/>
 
 </div>
 
 ---
 
-## ◈ Trofei
+## 🏆 Trofei
 
 <div align="center">
 
@@ -103,39 +101,35 @@ ask_me:     [ code, data, motorsport ]
 
 ---
 
-## ◈ Quote del giorno
+## 📡 Seguimi
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![Twitch](https://img.shields.io/badge/Twitch%20%40big__eis-1a1a1a?style=for-the-badge&logo=twitch&logoColor=9146FF)](https://twitch.tv/big_eis)
+[![YouTube](https://img.shields.io/badge/YouTube%20%40jofrancalanci-1a1a1a?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://youtube.com/@jofrancalanci)
+[![formula-rossa.it](https://img.shields.io/badge/🏁%20formula--rossa.it-FF0000?style=for-the-badge)](https://formula-rossa.it)
 
 </div>
 
 ---
 
-## ◈ Socials
+## ❤️ Supportami
 
 <div align="center">
 
-[![Twitch](https://img.shields.io/badge/Twitch-0a0a0a?style=for-the-badge&logo=twitch&logoColor=9146FF)](https://twitch.tv/@big_eis)
-[![YouTube](https://img.shields.io/badge/YouTube-0a0a0a?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://youtube.com/@@jofrancalanci)
-[![formula-rossa.it](https://img.shields.io/badge/formula--rossa.it-0a0a0a?style=for-the-badge&logo=firefox&logoColor=e8ff47)](https://formula-rossa.it)
+*Se ti piace il mio lavoro o vuoi supportare **[formula-rossa.it](https://formula-rossa.it)**, offrimi un caffè!* ☕
 
-</div>
-
----
-
-## ◈ Supportami
-
-<div align="center">
-
-[![PayPal](https://img.shields.io/badge/PayPal-0a0a0a?style=for-the-badge&logo=paypal&logoColor=00457C)](https://paypal.me/@JoaquimFrancalanci)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-0a0a0a?style=for-the-badge&logo=ko-fi&logoColor=F16061)](https://ko-fi.com/joaquimfrancalanci)
+[![PayPal](https://img.shields.io/badge/PayPal-1a1a1a?style=for-the-badge&logo=paypal&logoColor=FFD700)](https://paypal.me/@JoaquimFrancalanci)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-FF3300?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/joaquimfrancalanci)
 
 </div>
 
 ---
 
 <div align="center">
-<sub>Milano, IT — J0joFra</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4&height=80&section=footer"/>
+
+<sub>🏎️ Milano, IT — J0joFra — <a href="https://formula-rossa.it">formula-rossa.it</a> — Passion for Speed 🏁</sub>
+
 </div>
