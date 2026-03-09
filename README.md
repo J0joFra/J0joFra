@@ -91,16 +91,6 @@ Il sito dedicato alla **passione per il motorsport** 🏎️ — news, analisi, 
 
 ---
 
-## 🏆 Trofei
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=J0joFra&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)
-
-</div>
-
----
-
 ## 📡 Seguimi
 
 <div align="center">
