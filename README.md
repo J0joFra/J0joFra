@@ -1,9 +1,9 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4&height=120&section=header&text=J0joFra&fontSize=60&fontColor=FF0000&fontAlignY=65&animation=fadeIn&desc=Business%20Analyst%20%7C%20Founder%20%40%20formula-rossa.it&descSize=16&descAlignY=85&descColor=FFD700"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4&height=120&section=header&text=J0joFra&fontSize=60&fontColor=FF0000&fontAlignY=65&animation=fadeIn&desc=Business%20Analyst%20%7C%20Founder%20of%20the%20Formula%20Rossa%20world&descSize=16&descAlignY=85&descColor=FFD700"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=800&color=FF3300&background=00000000&center=true&vCenter=true&width=500&lines=%F0%9F%8F%8E%EF%B8%8F+Passion+for+Speed;%F0%9F%94%AD+Business+Analyst;%E2%9A%99%EF%B8%8F+Always+building+something+new;%F0%9F%9A%80+formula-rossa.it)](https://formula-rossa.it)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=800&color=FF3300&background=00000000&center=true&vCenter=true&width=520&lines=%F0%9F%8F%8E%EF%B8%8F+Passion+for+Speed;%F0%9F%94%B4+Building+the+Formula+Rossa+world;%F0%9F%93%B1+GridUP+%E2%80%94+now+on+Google+Play;%F0%9F%83%8F+Grand+Prix+Cards+Battle)](https://formula-rossa.it)
 
 [![](https://visitcount.itsvg.in/api?id=J0joFra&icon=5&color=6)](https://visitcount.itsvg.in)
 
@@ -11,31 +11,59 @@
 
 ---
 
-## 🏎️ Chi sono
+## 🏎️ About me
 
 ```yaml
 name:       Joaquim Francalanci
 alias:      J0joFra
 role:       Business Analyst
-founded:    formula-rossa.it   # 🔴 Passion for Speed
-location:   Milano, IT 🇮🇹
+building:   The Formula Rossa world   # 🔴 Passion for Speed
+projects:   [ formula-rossa.it, GridUP, Grand Prix Cards Battle ]
+location:   Milan, IT 🇮🇹
 ask_me:     [ code, data, motorsport ]
 ```
 
-> *"Velocità, dati e codice — tre modi per arrivare primo."*
+> *"Speed, data and code — three ways to finish first."*
 
 ---
 
-## 🔴 Il mio progetto — [formula-rossa.it](https://formula-rossa.it)
+## 🔴 The Formula Rossa world
 
 <div align="center">
 
 [![formula-rossa.it](https://img.shields.io/badge/🏁%20FORMULA--ROSSA.IT-FF0000?style=for-the-badge&logoColor=white)](https://formula-rossa.it)
-[![formula-rossa.it](https://img.shields.io/badge/PASSION%20FOR%20SPEED-FFD700?style=for-the-badge&labelColor=1a1a1a&color=FFD700)](https://formula-rossa.it)
+[![Passion for Speed](https://img.shields.io/badge/PASSION%20FOR%20SPEED-FFD700?style=for-the-badge&labelColor=1a1a1a&color=FFD700)](https://formula-rossa.it)
 
 </div>
 
-Il sito dedicato alla **passione per il motorsport** 🏎️ — news, analisi, dati e contenuti per tutti gli appassionati di velocità. Visita **[formula-rossa.it](https://formula-rossa.it)** e seguici sui social!
+**Formula Rossa** is my motorsport ecosystem: one passion for speed, turned into a website and a family of apps. Everything starts from **[formula-rossa.it](https://formula-rossa.it)** and grows from there.
+
+```
+                    🔴 FORMULA ROSSA
+                           │
+         ┌─────────────────┼──────────────────┐
+         │                 │                  │
+  🌐 formula-rossa.it   📱 GridUP   🃏 Grand Prix Cards Battle
+     the hub          on Google Play      the card game
+```
+
+### 🌐 formula-rossa.it — *the hub*
+
+The home of the Formula Rossa world: **news, analysis, data and content** for every motorsport fan. It's where the community lives and where every other project starts.
+
+[![Visit](https://img.shields.io/badge/Visit-formula--rossa.it-FF0000?style=flat-square&logo=googlechrome&logoColor=white)](https://formula-rossa.it)
+
+### 📱 GridUP — *available on Google Play*
+
+The Formula Rossa app that brings the motorsport experience straight to your phone. Get on the grid and race weekend after weekend.
+
+[![Get it on Google Play](https://img.shields.io/badge/Get%20it%20on-Google%20Play-1a1a1a?style=for-the-badge&logo=googleplay&logoColor=FFD700)](https://play.google.com/store/search?q=GridUP&c=apps)
+
+### 🃏 Grand Prix Cards Battle — *the card game*
+
+A motorsport-themed card battle game: collect your cards, build your deck and challenge your opponents to win the Grand Prix.
+
+![Status](https://img.shields.io/badge/Grand%20Prix%20Cards%20Battle-Coming%20soon-FF3300?style=flat-square&labelColor=1a1a1a)
 
 ---
 
@@ -72,6 +100,7 @@ Il sito dedicato alla **passione per il motorsport** 🏎️ — news, analisi, 
 ![MySQL](https://img.shields.io/badge/MySQL-1a1a1a?style=flat-square&logo=mysql&logoColor=FF3300)
 ![Redis](https://img.shields.io/badge/Redis-1a1a1a?style=flat-square&logo=redis&logoColor=FF3300)
 ![Neo4j](https://img.shields.io/badge/Neo4j-1a1a1a?style=flat-square&logo=neo4j&logoColor=FFD700)
+![Supabase](https://img.shields.io/badge/Supabase-1a1a1a?style=flat-square&logo=supabase&logoColor=FF3300)
 ![AWS](https://img.shields.io/badge/AWS-1a1a1a?style=flat-square&logo=amazon-aws&logoColor=FFD700)
 ![Google Cloud](https://img.shields.io/badge/GCP-1a1a1a?style=flat-square&logo=google-cloud&logoColor=FF3300)
 ![Vercel](https://img.shields.io/badge/Vercel-1a1a1a?style=flat-square&logo=vercel&logoColor=FFD700)
@@ -91,7 +120,7 @@ Il sito dedicato alla **passione per il motorsport** 🏎️ — news, analisi, 
 
 ---
 
-## 📡 Seguimi
+## 📡 Follow me
 
 <div align="center">
 
@@ -103,11 +132,11 @@ Il sito dedicato alla **passione per il motorsport** 🏎️ — news, analisi, 
 
 ---
 
-## ❤️ Supportami
+## ❤️ Support me
 
 <div align="center">
 
-*Se ti piace il mio lavoro o vuoi supportare **[formula-rossa.it](https://formula-rossa.it)**, offrimi un caffè!* ☕
+*If you enjoy my work or want to support the **Formula Rossa** world, buy me a coffee!* ☕
 
 [![PayPal](https://img.shields.io/badge/PayPal-1a1a1a?style=for-the-badge&logo=paypal&logoColor=FFD700)](https://paypal.me/@JoaquimFrancalanci)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-FF3300?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/joaquimfrancalanci)
@@ -120,6 +149,6 @@ Il sito dedicato alla **passione per il motorsport** 🏎️ — news, analisi, 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4&height=80&section=footer"/>
 
-<sub>🏎️ Milano, IT — J0joFra — <a href="https://formula-rossa.it">formula-rossa.it</a> — Passion for Speed 🏁</sub>
+<sub>🏎️ Milan, IT — J0joFra — <a href="https://formula-rossa.it">formula-rossa.it</a> · GridUP · Grand Prix Cards Battle — Passion for Speed 🏁</sub>
 
 </div>
